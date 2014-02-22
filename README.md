@@ -1,21 +1,12 @@
 ItFeelsThatWay
 ==============
 
-Chuck final song
 
-For Coursera course "Intro to Programming for Musicians and Digital
-Artists".  Audio samples + code.
+This song is the final assignment in the Chuck music programming language for the Coursera course "Intro to Programming for Musicians and Digital Artists".  Included in this repository is both audio samples + Chuck code needed to play song.
 
-To run the song, please install the Chuck miniAudicle application,
-then open initialize.ck, start the virtual machine, and hit play.
+To run the song, please install the Chuck miniAudicle application, then open initialize.ck, start the virtual machine, and hit play.  The song is about a minute, and has a few random elements, so the melody can vary a slight bit with each play.  Please feel free to use this code in your own compositions, as the framework here may prove helpful for quickly laying down loop ideas.
 
-The song is about a minute, and has a few random elements, so the 
-melody can vary a slight bit with each play.
-
-As for the code, this may be a good framework for quickly laying 
-down loops in your own compositions.
-
-Structure
+#Structure
   Initialize.ck - loads classes and calls score.  Start here.
   
   Score.ck - load instruments into their own "shred", and after 
@@ -31,10 +22,13 @@ Structure
   BPM.ck - provided by Dr. Kapur, tweaked a little, used for setting 
   tempo
   
-  Instruments
-  Drums.ck
-  Rhodey.ck
-  sqr2.ck - square wave "power chords"
-  Trimel.ck - triangular oscillator for melody
+#Instruments
+    Drums.ck
+  
+    Rhodey.ck
+  
+    sqr2.ck - square wave "power chords"
+  
+    Trimel.ck - triangular oscillator for melody
   
   
