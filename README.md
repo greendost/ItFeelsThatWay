@@ -6,6 +6,10 @@ This song is the final assignment in the Chuck music programming language for th
 
 To run the song, please install the Chuck miniAudicle application, then open initialize.ck, start the virtual machine, and hit play.  The song is about a minute, and has a few random elements, so the melody can vary a slight bit with each play.  Please feel free to use this code in your own compositions, as the framework here may prove helpful for quickly laying down loop ideas.
 
+Listen
+<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/136220367&amp;auto_play=false&amp;hide_related=false&amp;visual=true"></iframe>
+   
+
 ##Structure
   - Initialize.ck - loads classes and calls score.  Start here.
   
